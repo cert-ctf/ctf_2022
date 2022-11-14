@@ -1770,7 +1770,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/map_generalprobe#entrypoint"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/main#entrypoint"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -5240,7 +5240,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_01_island"
+                         "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_32_island"
                         }],
                  "type":"tilelayer",
                  "visible":true,
