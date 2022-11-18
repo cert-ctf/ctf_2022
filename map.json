@@ -12739,19 +12739,25 @@
                  "width":124.083,
                  "x":1122.91683333333,
                  "y":2011.99998333333
-                }],
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"conference"
                 }, 
                 {
-                 "name":"jitsiRoomAdminTag",
-                 "type":"string",
-                 "value":"speaker"
+                 "class":"area",
+                 "height":194,
+                 "id":8,
+                 "name":"welcome",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"html\/welcome.html"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":161,
+                 "x":1023,
+                 "y":2783
                 }],
+         "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -13025,7 +13031,7 @@
          "y":0
         }],
  "nextlayerid":330,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
         {
