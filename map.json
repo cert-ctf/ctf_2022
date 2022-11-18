@@ -12742,7 +12742,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":194,
+                 "height":306,
                  "id":8,
                  "name":"welcome",
                  "properties":[
@@ -12755,7 +12755,7 @@
                  "visible":true,
                  "width":161,
                  "x":1023,
-                 "y":2783
+                 "y":2698
                 }],
          "opacity":1,
          "type":"objectgroup",
